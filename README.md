@@ -1,4 +1,6 @@
-# AycapFrontend
+# angular2cli-start-kit
+
+- referance: https://angular.io/docs/ts/latest/guide/style-guide.html#!#04-06
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
