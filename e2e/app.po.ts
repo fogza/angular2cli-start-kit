@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class AycapFrontendPage {
+export class DemoFrontendPage {
   navigateTo() {
     return browser.get('/');
   }

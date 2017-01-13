@@ -1,10 +1,10 @@
-import { AycapFrontendPage } from './app.po';
+import { DemoFrontendPage } from './app.po';
 
-describe('aycap-frontend App', function() {
-  let page: AycapFrontendPage;
+describe('demo-frontend App', function() {
+  let page: DemoFrontendPage;
 
   beforeEach(() => {
-    page = new AycapFrontendPage();
+    page = new DemoFrontendPage();
   });
 
   it('should display message saying app works', () => {
